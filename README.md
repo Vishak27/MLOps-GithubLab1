@@ -58,3 +58,5 @@ The module provides functions to convert between:
 - Kelvin to Celsius
 
 All functions include error handling for invalid inputs and temperatures below absolute zero.
+
+(Note: This is a modification of the original lab from "ML with Ramim" where the work was on iris dataset - here the work is done on the wine dataset)
